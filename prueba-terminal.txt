@@ -1,2 +1,3 @@
 Prueba de Overcloud Terminal, 1-nov-2026. Se puede borrar.
 Cambio hecho desde otro lado para probar Pull.
+Segundo cambio: este debe bajar con un solo clic.
